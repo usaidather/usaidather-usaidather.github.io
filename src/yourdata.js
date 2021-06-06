@@ -20,18 +20,17 @@ export default {
   name: "Usaid Ather",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Mobile Application Developer",
     //Line 2 For Header
-    "products, brands,",
-    //Line 3 For Header
-    "and experience",
+    "iOS and React Native.",
+    
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Having more than 5 years of experience of mobile application development with expertise iOS and React Native.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "usaid.ather@gmail.com",
 
   // End Header Details -----------------------
 
